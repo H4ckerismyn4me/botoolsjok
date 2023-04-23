@@ -1,0 +1,10 @@
+python-telegram-bot
+BytesIO
+io
+requests
+logging
+time
+random
+string
+emoji
+python_version
