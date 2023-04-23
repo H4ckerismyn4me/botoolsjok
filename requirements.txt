@@ -8,3 +8,4 @@ random
 string
 emoji
 python_version
+telegram
