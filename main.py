@@ -1,7 +1,7 @@
 import logging
 import requests
 from telegram import InlineQueryResultArticle, InputTextMessageContent, InlineKeyboardMarkup, InlineKeyboardButton, Update, Document
-from telegram.ext import Updater, InlineQueryHandler, CommandHandler, CallbackQueryHandler, CallbackContext, Filters, MessageHandler
+from telegram.ext import Updater, InlineQueryHandler, CommandHandler, CallbackQueryHandler, CallbackContext, filters, MessageHandler
 from telegram import CallbackQuery
 from threading import Timer
 from telegram import ParseMode
