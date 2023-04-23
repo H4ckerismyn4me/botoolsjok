@@ -4,7 +4,7 @@ from telegram import InlineQueryResultArticle, InputTextMessageContent, InlineKe
 from telegram.ext import Updater, InlineQueryHandler, CommandHandler, CallbackQueryHandler, CallbackContext, filters, MessageHandler
 from telegram import CallbackQuery
 from threading import Timer
-from telegram import ParseMode
+from telegram.ext import ParseMode
 import time
 import random
 import string
